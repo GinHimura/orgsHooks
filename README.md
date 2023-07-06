@@ -2,7 +2,7 @@
 
 Este projeto é um aplicativo desenvolvido em React Native que permite avaliar produtores de alimentos, aumentando ou diminuindo a quantidade de estrelas atribuídas a eles.
 
-<img src="src/assets/app.gif" alt="Aplicativo" width="200px">
+<img src="src/assets/app.gif" alt="Aplicativo" width="220px">
 
 ## Funcionalidades
 
